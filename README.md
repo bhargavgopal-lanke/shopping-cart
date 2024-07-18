@@ -1,2 +1,2 @@
 # shopping-cart
-Just another repository
+Shopping cart application using Node Js and MySql.
